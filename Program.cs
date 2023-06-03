@@ -1,4 +1,4 @@
-﻿//SebikaNepal
+﻿//q1 SebikaNepal
 //rollno =>23409/076 (39)
 // using System;
 
@@ -64,7 +64,7 @@
 // }
 
 
-
+//q2
 //SebikaNepal
 //rollno =>23409/076 (39)
 using System;
